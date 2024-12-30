@@ -19,7 +19,7 @@ function App() {
 
 
 <>
-<Router>
+<Router basename="/ReactPracFirst">
 <Navbar/>
 
       <div>
@@ -33,6 +33,7 @@ function App() {
         </Routes>
       </div>
     </Router>
+    {/* <Book/> */}
 
 
 </>
