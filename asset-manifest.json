@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactPracFirst/static/css/main.f855e6bc.css",
+    "main.js": "/ReactPracFirst/static/js/main.2512024f.js",
+    "static/js/488.548ceb91.chunk.js": "/ReactPracFirst/static/js/488.548ceb91.chunk.js",
+    "static/media/male-business-speaker-giving-talk-business-conference-event_148840-66621.jpg": "/ReactPracFirst/static/media/male-business-speaker-giving-talk-business-conference-event_148840-66621.fefcc0ea50b14c803bcb.jpg",
+    "index.html": "/ReactPracFirst/index.html",
+    "main.f855e6bc.css.map": "/ReactPracFirst/static/css/main.f855e6bc.css.map",
+    "main.2512024f.js.map": "/ReactPracFirst/static/js/main.2512024f.js.map",
+    "488.548ceb91.chunk.js.map": "/ReactPracFirst/static/js/488.548ceb91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2512024f.js"
+  ]
+}
